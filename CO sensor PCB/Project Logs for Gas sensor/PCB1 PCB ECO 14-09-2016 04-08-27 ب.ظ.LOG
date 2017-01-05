@@ -1,0 +1,72 @@
+Added Component: Designator=C1(Resistor)
+Added Component: Designator=C2(Resistor)
+Added Component: Designator=C3(Resistor)
+Added Component: Designator=C4(Resistor)
+Added Component: Designator=C5(Resistor)
+Added Component: Designator=ISP1(HDR2X5)
+Added Component: Designator=JUMP1(HDR1X2)
+Added Component: Designator=nrf1(HDR2X4)
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=R4(Resistor)
+Added Component: Designator=R5(Resistor)
+Added Component: Designator=R6(Resistor)
+Added Component: Designator=Y1(My_Crystal)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=RST Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=MOSI Pin=ISP1-1
+Added Pin To Net: NetName=VCC Pin=ISP1-2
+Added Pin To Net: NetName=GND Pin=ISP1-4
+Added Pin To Net: NetName=RST Pin=ISP1-5
+Added Pin To Net: NetName=GND Pin=ISP1-6
+Added Pin To Net: NetName=SCK Pin=ISP1-7
+Added Pin To Net: NetName=GND Pin=ISP1-8
+Added Pin To Net: NetName=MISO Pin=ISP1-9
+Added Pin To Net: NetName=GND Pin=ISP1-10
+Added Pin To Net: NetName=VCC Pin=JUMP1-1
+Added Pin To Net: NetName=NetJUMP1_2 Pin=JUMP1-2
+Added Pin To Net: NetName=MISO Pin=nrf1-2
+Added Pin To Net: NetName=MISO Pin=nrf1-3
+Added Pin To Net: NetName=SCK Pin=nrf1-4
+Added Pin To Net: NetName=SCN Pin=nrf1-5
+Added Pin To Net: NetName=CE Pin=nrf1-6
+Added Pin To Net: NetName=VCC Pin=nrf1-7
+Added Pin To Net: NetName=GND Pin=nrf1-8
+Added Pin To Net: NetName=VGND Pin=R1-1
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=VGND Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=GAS SENSE Pin=R3-2
+Added Pin To Net: NetName=VGND Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=RST Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=RST Pin=R6-2
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component ISP1 Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component JUMP1 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component nrf1 Header 4X2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Rsepehr
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 CRYSTAL
