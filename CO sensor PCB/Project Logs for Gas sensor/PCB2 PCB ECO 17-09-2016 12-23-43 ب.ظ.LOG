@@ -1,0 +1,104 @@
+Added Pin To Net: NetName=CE Pin=nrf-6
+Added Pin To Net: NetName=CE Pin=U1-13
+Added Net: Name=CE
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=ISP-4
+Added Pin To Net: NetName=GND Pin=ISP-6
+Added Pin To Net: NetName=GND Pin=ISP-8
+Added Pin To Net: NetName=GND Pin=ISP-10
+Added Pin To Net: NetName=GND Pin=nrf-8
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Net: Name=GND
+Added Pin To Net: NetName=GSNS Pin=C6-2
+Added Pin To Net: NetName=GSNS Pin=R3-1
+Added Pin To Net: NetName=GSNS Pin=U1-26
+Added Pin To Net: NetName=GSNS Pin=U3-1
+Added Net: Name=GSNS
+Added Pin To Net: NetName=MISO Pin=ISP-9
+Added Pin To Net: NetName=MISO Pin=nrf-2
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=ISP-1
+Added Pin To Net: NetName=MOSI Pin=nrf-3
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetAREF_2 Pin=AREF-2
+Added Pin To Net: NetName=NetAREF_2 Pin=U1-20
+Added Net: Name=NetAREF_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-7
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-8
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R3-2
+Added Pin To Net: NetName=NetC6_1 Pin=R4-2
+Added Pin To Net: NetName=NetC6_1 Pin=SNS-2
+Added Pin To Net: NetName=NetC6_1 Pin=U3-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-9
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R7-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=Netnrf_7 Pin=nrf-7
+Added Pin To Net: NetName=Netnrf_7 Pin=U5-3
+Added Net: Name=Netnrf_7
+Added Pin To Net: NetName=NetPC1_1 Pin=PC1-1
+Added Pin To Net: NetName=NetPC1_1 Pin=U4-2
+Added Net: Name=NetPC1_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=S1-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=RST Pin=C5-1
+Added Pin To Net: NetName=RST Pin=ISP-5
+Added Pin To Net: NetName=RST Pin=R5-1
+Added Pin To Net: NetName=RST Pin=R6-2
+Added Pin To Net: NetName=RST Pin=U1-29
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=ISP-7
+Added Pin To Net: NetName=SCK Pin=nrf-4
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCN Pin=nrf-5
+Added Pin To Net: NetName=SCN Pin=U1-14
+Added Net: Name=SCN
+Added Pin To Net: NetName=V12 Pin=PC1-2
+Added Pin To Net: NetName=V12 Pin=R1-2
+Added Pin To Net: NetName=V12 Pin=U4-1
+Added Net: Name=V12
+Added Pin To Net: NetName=VCC Pin=AREF-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=ISP-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=VCC Pin=U1-18
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=U5-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VGND Pin=R1-1
+Added Pin To Net: NetName=VGND Pin=R2-2
+Added Pin To Net: NetName=VGND Pin=R4-1
+Added Pin To Net: NetName=VGND Pin=SNS-1
+Added Pin To Net: NetName=VGND Pin=SNS-1
+Added Pin To Net: NetName=VGND Pin=U3-3
+Added Net: Name=VGND
+Added Room: Name=Sheet1

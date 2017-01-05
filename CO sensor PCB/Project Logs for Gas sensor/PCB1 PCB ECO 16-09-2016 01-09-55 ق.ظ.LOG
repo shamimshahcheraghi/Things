@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=ON NewDesignator=D1
+Change Component Designator: OldDesignator=RST NewDesignator=S1
+Added Pin To Net: NetName=NetC6_2 Pin=U1-23
+Change Net Name : Old Net Name=NetC6_2 New Net Name=GSNS
+Added Member To Class: ClassName=Sheet1 Member=Component U5 LF33CDT-TR
+Added Room: Name=Sheet1
