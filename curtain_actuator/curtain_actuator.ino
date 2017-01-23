@@ -3,7 +3,6 @@
 #include <RF24.h>
 #include "printf.h"
 #include "Curtain.h"
-#include "Timer1.h"
 
 RF24 radio(9, 10);
 Curtain myCurtain(1); //Construct curtain object for 1 curtain
