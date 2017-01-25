@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=MISO Pin=nrf-3
-Change Component Designator: OldDesignator=ISP NewDesignator=ISP1
-Change Component Designator: OldDesignator=nrf NewDesignator=nrf1
-Added Pin To Net: NetName=MOSI Pin=nrf1-3
-Added Room: Name=Sheet1
