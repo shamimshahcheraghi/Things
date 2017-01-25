@@ -1,4 +1,0 @@
-Added Component: Designator=S1(SPST-2)
-Added Pin To Net: NetName=NetR6_1 Pin=S1-1
-Added Pin To Net: NetName=GND Pin=S1-2
-Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-PB
