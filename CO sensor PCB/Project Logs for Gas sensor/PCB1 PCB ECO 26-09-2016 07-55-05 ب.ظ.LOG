@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=RST Pin=R6-2
-Removed Pin From Net: NetName=GSNS Pin=U1-23
-Change Component Designator: OldDesignator=ON NewDesignator=D1
-Added Pin To Net: NetName=GND Pin=PC1-1
-Added Pin To Net: NetName=GSNS Pin=U1-26
-Added Pin To Net: NetName=GND Pin=U4-2
-Added Member To Class: ClassName=Sheet1 Member=Component SNS Component_1
-Added Room: Name=Sheet1
