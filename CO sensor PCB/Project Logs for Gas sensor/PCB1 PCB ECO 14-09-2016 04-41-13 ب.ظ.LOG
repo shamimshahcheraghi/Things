@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetR6_1 Pin=S1-1
-Removed Pin From Net: NetName=NetR6_1 Pin=S1-1
-Removed Pin From Net: NetName=GND Pin=S1-2
-Removed Pin From Net: NetName=GND Pin=S1-2
-Added Component: Designator=S1(SPST-2)
-Added Pin To Net: NetName=NetR6_1 Pin=S1-1
-Added Pin To Net: NetName=GND Pin=S1-2
-Added Room: Name=Sheet1
