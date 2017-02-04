@@ -7,6 +7,7 @@ This is the source files for the curtain actuator. The board gives value for goi
 
 #Command frame
 The general form of command you should sent to curtain actuator is like this: `@3,pxsvvv`
+
 Which these symbols stand for:
 
 Symbol | meaning
