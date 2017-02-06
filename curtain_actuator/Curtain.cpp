@@ -48,7 +48,7 @@ void Curtain::up(int value,int curtainID){
         digitalWrite(ccw3_pin, HIGH);
         delay(delayValue);
         digitalWrite(ccw3_pin, LOW);
-      case 4: //Activates all curtains
+      case 4:
         digitalWrite(ccw1_pin, HIGH);
         digitalWrite(ccw2_pin, HIGH);
         digitalWrite(ccw3_pin, HIGH);

@@ -3,6 +3,7 @@
 #include <RF24.h>
 #include "printf.h"
 #include "Curtain.h"
+//#include "Timer1.h"
 
 RF24 radio(9, 10);
 Curtain myCurtain(1); //Construct curtain object for 1 curtain
@@ -35,10 +36,11 @@ void setup()
   printf_begin();
   radio.begin();
   // 2 250 MicroSecond delays between each retry, 15 retries overally
+  radio.setAutoAck(false);
   radio.setPALevel( RF24_PA_MAX ) ; //amplification level set at maximum
-  radio.setChannel(0); //using first channel of frequency domain
+  radio.setChannel(75); //using first channel of frequency domain
   radio.setDataRate(RF24_250KBPS);// 250Kbps data rate
-  radio.setRetries(2,15);
+  //radio.setRetries(15,10);
   
   
   
@@ -66,11 +68,9 @@ void loop()
   if (radio.available())
   {
     ack(3); //acknowledgement sending
-    digitalWrite(led_pin, HIGH);
-    delay(250);
-    digitalWrite(led_pin, LOW);
     char text[32] = {0};
     radio.read(&text, sizeof(text));
+    Serial.print(text);
     if(myCurtain.frame_is_mine(text)){
       int value = myCurtain.extract_value(text);
       if(value>0){
